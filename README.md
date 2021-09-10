@@ -35,5 +35,5 @@ apt update ; apt install git curl -y ; git clone git://github.com/started12/cig-
 <img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"/>
 
 ## Find Me on :
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/started12)
-[![Instagram](https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/the_glitch32)
+[![Github]](https://github.com/started12)
+[![Instagram]](https://www.instagram.com/the_glitch32)
