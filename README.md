@@ -26,7 +26,7 @@ apt update ; apt install git curl -y ; git clone git://github.com/started12/cig-
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/trackip.png"/>
+<img src="https://media.discordapp.net/attachments/885308943969161236/885841971254538281/unknown.png?width=460&height=612"/>
 
 ## Find Me on :
 [![Github]](https://github.com/started12)
